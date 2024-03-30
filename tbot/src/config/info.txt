@@ -1,0 +1,8 @@
+Create a ".env" file in this directory
+
+BOT_TOKEN="12345687:asdfghkj"
+NODE_ENV="development"
+BANK_CARD="8600********1234"
+BANK_CARD_NAME="Name of the card's owner"
+ORDERS_CHANNEL="id of orders channel. e.g: -1001234567890"
+PORT="8080"
