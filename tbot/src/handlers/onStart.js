@@ -3,6 +3,6 @@ const newUser = require("../utils/newUser");
 
 module.exports = async (ctx) => {
     ctx.scene.leave();
-    ctx.reply("Hello World!", main);
+    ctx.reply("👋 Assalamu alaykum, botga xush kelibsiz.", main);
     newUser(ctx);
 };
